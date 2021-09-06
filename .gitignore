@@ -1,0 +1,6 @@
+.env
+.history
+.idea
+.README
+node_modules/
+.DockerFile
